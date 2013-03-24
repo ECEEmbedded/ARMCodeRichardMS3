@@ -166,24 +166,24 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>228</LineNumber>
+          <LineNumber>204</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>12480</Address>
+          <Address>0</Address>
           <ByteObject>0</ByteObject>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename></Filename>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>Z:\ARMCode\ARMCode\RTOSDemo\MainFiles\irControl.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\RTOSDemo\MainFiles/irControl.c\228</Expression>
+          <Expression></Expression>
         </Bp>
         <Bp>
           <Number>1</Number>
           <Type>0</Type>
-          <LineNumber>205</LineNumber>
+          <LineNumber>230</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>12338</Address>
+          <Address>12724</Address>
           <ByteObject>0</ByteObject>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
@@ -191,7 +191,37 @@
           <BreakIfRCount>1</BreakIfRCount>
           <Filename></Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\RTOSDemo\MainFiles/irControl.c\205</Expression>
+          <Expression>\\RTOSDemo\MainFiles/irControl.c\230</Expression>
+        </Bp>
+        <Bp>
+          <Number>2</Number>
+          <Type>0</Type>
+          <LineNumber>308</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>9388</Address>
+          <ByteObject>0</ByteObject>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename></Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\RTOSDemo\MainFiles/LCDtask.c\308</Expression>
+        </Bp>
+        <Bp>
+          <Number>3</Number>
+          <Type>0</Type>
+          <LineNumber>177</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>10020</Address>
+          <ByteObject>0</ByteObject>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename></Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\RTOSDemo\MainFiles/LCDtask.c\177</Expression>
         </Bp>
       </Breakpoint>
       <MemoryWindow1>
@@ -242,7 +272,7 @@
         <aLa>0</aLa>
         <aPa1>0</aPa1>
         <AscS4>0</AscS4>
-        <aSer4>1</aSer4>
+        <aSer4>0</aSer4>
         <StkLoc>0</StkLoc>
         <TrcWin>0</TrcWin>
         <newCpu>0</newCpu>
@@ -341,10 +371,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>74</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>211</TopLine>
-      <CurrentLine>227</CurrentLine>
+      <TopLine>184</TopLine>
+      <CurrentLine>188</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\MainFiles/main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -383,10 +413,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>54</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>253</TopLine>
-      <CurrentLine>253</CurrentLine>
+      <TopLine>170</TopLine>
+      <CurrentLine>177</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\MainFiles/LCDtask.c</PathWithFileName>
       <FilenameWithoutPath>LCDtask.c</FilenameWithoutPath>
@@ -411,10 +441,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>50</ColumnNumber>
+      <ColumnNumber>28</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>97</TopLine>
-      <CurrentLine>97</CurrentLine>
+      <TopLine>85</TopLine>
+      <CurrentLine>94</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\MainFiles/conductor.c</PathWithFileName>
       <FilenameWithoutPath>conductor.c</FilenameWithoutPath>
@@ -467,10 +497,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>48</ColumnNumber>
+      <ColumnNumber>59</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>220</TopLine>
-      <CurrentLine>237</CurrentLine>
+      <TopLine>187</TopLine>
+      <CurrentLine>204</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\MainFiles/irControl.c</PathWithFileName>
       <FilenameWithoutPath>irControl.c</FilenameWithoutPath>
@@ -483,8 +513,8 @@
       <Focus>0</Focus>
       <ColumnNumber>20</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>6</CurrentLine>
+      <TopLine>12</TopLine>
+      <CurrentLine>12</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\MainFiles\irControl.h</PathWithFileName>
       <FilenameWithoutPath>irControl.h</FilenameWithoutPath>
@@ -565,10 +595,10 @@
       <FileType>5</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>36</ColumnNumber>
+      <ColumnNumber>22</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>26</TopLine>
+      <CurrentLine>34</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\MainFiles\myTypes.h</PathWithFileName>
       <FilenameWithoutPath>myTypes.h</FilenameWithoutPath>
@@ -1249,9 +1279,9 @@
       <Documents>
         <Doc>
           <Name>.\MainFiles/irControl.c</Name>
-          <ColumnNumber>7</ColumnNumber>
-          <TopLine>244</TopLine>
-          <CurrentLine>248</CurrentLine>
+          <ColumnNumber>59</ColumnNumber>
+          <TopLine>187</TopLine>
+          <CurrentLine>204</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\MainFiles/myTimers.c</Name>
@@ -1261,26 +1291,26 @@
         </Doc>
         <Doc>
           <Name>.\MainFiles/main.c</Name>
-          <ColumnNumber>74</ColumnNumber>
-          <TopLine>211</TopLine>
-          <CurrentLine>227</CurrentLine>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>184</TopLine>
+          <CurrentLine>188</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\MainFiles/conductor.c</Name>
-          <ColumnNumber>50</ColumnNumber>
-          <TopLine>43</TopLine>
-          <CurrentLine>43</CurrentLine>
+          <ColumnNumber>28</ColumnNumber>
+          <TopLine>85</TopLine>
+          <CurrentLine>94</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\MainFiles/LCDtask.c</Name>
-          <ColumnNumber>54</ColumnNumber>
-          <TopLine>253</TopLine>
-          <CurrentLine>253</CurrentLine>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>170</TopLine>
+          <CurrentLine>177</CurrentLine>
         </Doc>
         <Doc>
           <Name>Z:\ARMCode\ARMCode\RTOSDemo\MAINFILES\LCDTASK.H</Name>
           <ColumnNumber>14</ColumnNumber>
-          <TopLine>61</TopLine>
+          <TopLine>66</TopLine>
           <CurrentLine>74</CurrentLine>
         </Doc>
         <Doc>
@@ -1291,9 +1321,15 @@
         </Doc>
         <Doc>
           <Name>Z:\ARMCODE\ARMCODE\RTOSDEMO\MAINFILES\MYTYPES.H</Name>
-          <ColumnNumber>22</ColumnNumber>
+          <ColumnNumber>30</ColumnNumber>
           <TopLine>26</TopLine>
-          <CurrentLine>34</CurrentLine>
+          <CurrentLine>33</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>Z:\ARMCode\ARMCode\RTOSDemo\MAINFILES\CONDUCTOR.H</Name>
+          <ColumnNumber>62</ColumnNumber>
+          <TopLine>23</TopLine>
+          <CurrentLine>23</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
